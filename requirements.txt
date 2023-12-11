@@ -1,0 +1,10 @@
+sounddevice
+soundfile
+numpy
+openai
+requests
+re
+colorama
+datetime
+base64
+pydub
